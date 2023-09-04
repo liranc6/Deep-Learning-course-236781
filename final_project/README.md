@@ -1,15 +1,12 @@
 # CS236781: Deep Learning on Computational Accelerators
 # Homework Assignment 4
 
-Faculty of Computer Science, Technion.
+Faculty of Computer Science, Technion
 
-## Introduction
+## Part 1 - Object detection on TACO dataset
 
-In this assignment we'll explore deep reinforcement learning.
-We'll implement two popular and related methods for directly learning the policy of an
-agent for playing a simple video game.
+TACO is a growing image dataset of waste in the wild. It contains images of litter taken under diverse environments: woods, roads and beaches.
 
-## Contents
+We will perform an Object Detection task over the data set
 
-- [Part1: Mini-Project](#part1)
-- [Part2: Summary Questions](#part2)
+## part 2 - Theoretical Questions
